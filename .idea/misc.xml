@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/activity_activo_buscar.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/activity_crear_inventario.xml" value="0.22" />
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/activity_elementos_asignados.xml" value="0.25" />
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/activity_elementos_encontrados.xml" value="0.28125" />
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/activity_elementos_encontrados_inventario.xml" value="0.28125" />
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/activity_identificar_inventario.xml" value="0.28125" />
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/activity_inventario.xml" value="0.1" />
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/activity_inventario_activo_seleccionado.xml" value="0.28125" />
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/activity_inventario_deteccion.xml" value="0.33" />
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/activity_localizador.xml" value="0.33" />
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/activity_localizar_activo.xml" value="0.28125" />
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/activity_main.xml" value="0.28125" />
+        <entry key="..\:/Users/drodriguez/Desktop/LTS_RFID/LTS_RFID/app/src/main/res/layout/crear_inventario_identificado.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

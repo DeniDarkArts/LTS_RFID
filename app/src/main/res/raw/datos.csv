@@ -1,0 +1,20 @@
+AssetFamily,,,
+Id,Name,,
+Int-Identity,String,,
+AssetType,,,
+Id,Name,,
+Int-Identity,String,,
+KIT,,,,,
+POU,,,,,
+ELO,,,,,
+BOX,,,,,
+Industrial Mean Test Mean Table,,,
+Asset,Container,Container,,
+Id,Name,EPC,FamilyId,ZoneId,ContainerId
+IDENTITY,String,String,Int,Int,Int
+Inventory,,,
+Id,Name,AssetId,,
+IDENTITY,String,Int,,
+Zone,,,
+Id,Name,URL Image,Location
+Int-Identity,String,Int,String

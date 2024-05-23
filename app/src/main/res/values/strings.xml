@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RFID_Localizador</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_edicion_zona">Edit Zone</string>
+    <string name="tab_escanear_zona">Scan Zone</string>
+    <string name="tab_editar_elemento">Edit Element</string>
+    <string name="tab_editar_etiqueta">Edit Label</string>
+    <string name="tab_usuarios">Usuarios</string>
+    <string name="zonas">Zonas:</string>
+    <string name="menu">Menu</string>
+
+    <string-array name="familia">
+        <item>KIT</item>
+        <item>POU</item>
+        <item>ELO</item>
+        <item>BOX</item>
+        <item>Industrial Mean</item>
+        <item>Test Mean</item>
+        <item>Tablet</item>
+    </string-array>
+
+    <string-array name="descripcion">
+        <item>PoU RACK 800</item>
+        <item>PoU PODs Alas</item>
+        <item>PoU Mixer FUS</item>
+    </string-array>
+
+    <string-array name="ref_code">
+        <item>POU06_M821</item>
+        <item>POU02_M157</item>
+        <item>POU03_M040</item>
+    </string-array>
+
+    <string-array name="tag_id">
+        <item>ADMPOU0600566888</item>
+        <item>ADMPOU0200547987</item>
+        <item>ADMPOU0300009932</item>
+    </string-array>
+</resources>

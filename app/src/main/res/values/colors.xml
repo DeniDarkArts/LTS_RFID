@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#95C4ED</color>
+    <color name="teal_700">#688BA9</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_color">#688BA9</color>
+    <color name="red">#FF0000</color>
+    <color name="progressBarCali" type="color">#00ffcc</color>
+    <color name="progressBarProd" type="color">#ff944d</color>
+    <color name="rojo_1">#A23A32</color>
+    <color name="verde_1">#2C552D</color>
+    <item name="primary" type="color">#95C4ED</item>
+    <item name="primaryDark" type="color">#688BA9</item>
+    <item name="tab_color_selected" type="color">#FFFFFF</item>
+    <item name="tab_color_unselected" type="color">#80FFFFFF</item>
+    <item name="tab_badge" type="color">#ec0000</item>
+    <item name="greyBackground" type="color">#efefef</item>
+    <item name="connected_color" type="color">#208c4b</item>
+    <item name="azul" type="color">#3672D4</item>
+    <item name="rosa" type="color">#F81BDD</item>
+    <item name="verde" type="color">#2EED42</item>
+    <item name="blue_airbus" type="color">#080A7E</item>
+    <item name="light_blue" type="color">#64DCCF</item>
+    <item name="pink" type="color">#F27152</item>
+    <item name="red_button" type="color">#F16B53</item>
+    <item name="green_button" type="color">#30D828</item>
+</resources>
